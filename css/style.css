@@ -1,0 +1,31 @@
+body {
+    background: white;
+    font: arial;
+    color: black;
+}
+
+.nav-tabs {
+  border-bottom: 0px solid #ddd;
+}
+
+#div1, #div2, #div3 {
+    background: -webkit-radial-gradient(#00b0ff 10%, #006999 90%);
+    color: white;
+    font-family: arial, sans-serif;
+    padding-top: 15px;
+    border-radius: 5px;
+    padding-bottom: 20px;
+    margin: 10px;
+}
+
+#head1, #head2, #head3, {
+    font-weight: bolder;
+    text-shadow: 2px 2px;
+}
+
+#texto1, #texto2, #texto3 {
+    font-size: small;
+}
+
+.readmore {
+    background-color: #000000 ;
